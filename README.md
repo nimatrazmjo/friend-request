@@ -61,3 +61,5 @@ web 3 smart contract ot send, receive frields request using soliditu #web3, #blo
     enums etc. as you like.
   </p>
 </div>
+
+Learned from ***algoexpert*** blockchain course
